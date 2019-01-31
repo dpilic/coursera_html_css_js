@@ -38,6 +38,7 @@ h2 {
     background-color: darkgray;
     border: 2px solid black;
     padding: 3em .5em .5em .5em;
+    min-height: 135px;    
     position: relative;
     }    
     
@@ -76,6 +77,7 @@ h2 {
     background-color: darkgray;
     border: 2px solid black;        
     padding: 3em .5em .5em .5em;
+    min-height: 135px;        
     position: relative;
     }    
     
@@ -110,6 +112,7 @@ h2 {
         background-color: darkgray;
         border: 2px solid black;        
         padding: 3em .5em .5em .5em;
+        min-height: 135px;        
         position: relative;
     }    
     
