@@ -36,7 +36,7 @@ h2 {
     .col-lg-4 > div {
     margin: 15px 15px 0 15px;
     background-color: darkgray;
-    border: 2px solid black;
+    border: 1px solid black;
     padding: 3em .5em .5em .5em;
     min-height: 135px;    
     position: relative;
@@ -48,8 +48,8 @@ h2 {
     right: 0;
     padding: .3em;
     font-size: 1.25em;        
-    border-bottom: 2px solid black;
-    border-left: 2px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
     width: 6em;
     text-align: center;
     }    
@@ -75,7 +75,7 @@ h2 {
     .col-md-6 > div, .col-md-12 > div {
     margin: 15px 15px 0 15px;
     background-color: darkgray;
-    border: 2px solid black;        
+    border: 1px solid black;        
     padding: 3em .5em .5em .5em;
     min-height: 135px;        
     position: relative;
@@ -87,8 +87,8 @@ h2 {
     right: 0;
     padding: .3em;
     font-size: 1.25em;        
-    border-bottom: 2px solid black;
-    border-left: 2px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
     width: 6em;
     text-align: center;
     }       
@@ -110,7 +110,7 @@ h2 {
     .col-sm-12 > div {
         margin: 15px 15px 0 15px;
         background-color: darkgray;
-        border: 2px solid black;        
+        border: 1px solid black;        
         padding: 3em .5em .5em .5em;
         min-height: 135px;        
         position: relative;
@@ -122,8 +122,8 @@ h2 {
         right: 0;
         padding: .3em;
         font-size: 1.25em;
-        border-bottom: 2px solid black;
-        border-left: 2px solid black;
+        border-bottom: 1px solid black;
+        border-left: 1px solid black;
 /*        border: 2px solid black;*/
         width: 6em;
         text-align: center;
