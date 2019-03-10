@@ -31,3 +31,9 @@ border-color: white;
 .navbar-nav > li > a {
     color: white !important;
 }
+
+#menu {
+    margin: 0 auto;  
+}
+
+/*https://dpilic.github.io/coursera_html_css_js/module3_solution/*/
