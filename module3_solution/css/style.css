@@ -1,0 +1,33 @@
+.fixed-height {
+    height: 1000px;   
+    width: 80%;
+    margin: 0 auto;
+    padding: 1.5em;
+    background-color: #f7f7f7;
+}
+
+* {
+  box-sizing: border-box;    
+}
+
+.navbar {
+    background-color: #6195b4 !important;
+}
+
+#brand {
+    color: white;
+}
+
+
+.navbar-toggle {
+margin-top: 25px;
+border-color: white;
+}
+
+.icon-bar {
+    background-color: white !important;
+}
+
+.navbar-nav > li > a {
+    color: white !important;
+}
